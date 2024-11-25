@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2f2dfa3e-3f40-4e61-ad1d-6f38044a1719" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/material_theme_project_new.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Lab_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_1/Task_1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_1/src/Countable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_1/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_1/src/Replaceable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_1/src/Searchable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_1/src/src/Countable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_1/src/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_1/src/src/Replaceable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_1/src/src/Searchable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2/Task_2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_2/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_3/Task_3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_3/src/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_3/src/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_3/src/UserFinder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_4/Task_4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_4/com.example.app/com.example.app.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_4/com.example.app/src/com/example/app/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_4/com.example.app/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_4/com.example.model/com.example.model.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_4/com.example.model/src/com/example/model/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_4/com.example.model/src/module-info.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_4/com.example.service/com.example.service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_4/com.example.service/src/com/example/service/PersonService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Task_4/com.example.service/src/module-info.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2p4olMjzWdTCZAKTuZsmY7GHkaR" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.Main.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "extract.method.default.visibility": "private",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "M:/gthub/ksubg/java/LAB/Lab_1/Task_1/src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "M:/gthub/ksubg/java/LAB/Lab_1/Task_4/com.example.app/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="M:\gthub\ksubg\java\LAB\Lab_1\Task_1\src" />
+    </key>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-b114ca120d71-intellij.indexing.shared.core-IU-242.21829.142" />
+        <option value="bundled-js-predefined-d6986cc7102b-7c0b70fcd90d-JavaScript-IU-242.21829.142" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2f2dfa3e-3f40-4e61-ad1d-6f38044a1719" name="Changes" comment="" />
+      <created>1732034867138</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732034867138</updated>
+      <workItem from="1732034868233" duration="7140000" />
+      <workItem from="1732317146469" duration="3120000" />
+      <workItem from="1732410379413" duration="3962000" />
+      <workItem from="1732467705276" duration="9467000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassCastException" package="java.lang" />
+          <option name="timeStamp" value="7" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
