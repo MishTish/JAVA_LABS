@@ -12,11 +12,11 @@ public class HttpClientExample {
                 .connectTimeout(Duration.ofSeconds(10))
                 .build();
 
-        String getUrl = "https://jsonplaceholder.typicode.com/posts/1"; // Example API
+        String getUrl = "https://jsonplaceholder.typicode.com/posts/1";
         System.out.println("Sending GET request...");
         sendGetRequest(client, getUrl);
 
-        String postUrl = "https://jsonplaceholder.typicode.com/posts"; // Example API
+        String postUrl = "https://jsonplaceholder.typicode.com/posts";
         Map<String, String> formData = Map.of(
                 "title", "foo",
                 "body", "bar",
@@ -61,7 +61,7 @@ public class HttpClientExample {
                     .build();
 
             HttpResponse<String> response = client.send(request, HttpResponse.BodyHandlers.ofString());
-            
+
             System.out.println("Status Code: " + response.statusCode());
             System.out.println("Headers: " + response.headers());
             System.out.println("Body: " + response.body());
